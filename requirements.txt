@@ -1,0 +1,2 @@
+M2Crypto~=0.38.0
+setuptools==65.3.0
