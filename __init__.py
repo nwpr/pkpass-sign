@@ -1,1 +1,1 @@
-from sign import *
+from PkpassSigner import *
